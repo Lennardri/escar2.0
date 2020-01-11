@@ -1,0 +1,66 @@
+.Header {
+    font-size: 8em;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-family: "Andale Mono";
+
+}
+
+.Login {
+    height: 600px;
+    text-align: center;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 20px;
+    margin-bottom: 7%;
+    padding-top: 10px;
+    background-image: url("https://www.tuv.com/content-media-files/master-content/services/ict-business-solutions/1499-tuv-rheinland-penetration-tests-and-it-security-analysis/tuv-rheinland-1499-penetration-testing-and-it-security-analysis-gi-958625862_core_2_2_1.jpg");
+    *background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 4px;
+}
+
+.Input {
+    display: block;
+    width: 80%;
+    height: 34px;
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #555555;
+    background-color: #fff;
+    background-image: url("https://backgrounddownload.com/blue-abstract-geometric-background/");
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+    -webkit-transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+    -o-transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+    -webkit-transition: border-color ease-in-out .15s, -webkit-box-shadow ease-in-out .15s;
+    transition: border-color ease-in-out .15s, -webkit-box-shadow ease-in-out .15s;
+    transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+    transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s, -webkit-box-shadow ease-in-out .15s;
+    margin: 30px 10%;
+}
+.Registrieren {
+    display: inline-block;
+    margin-bottom: 0;
+    font-weight: 400;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    touch-action: manipulation;
+    cursor: pointer;
+    margin-top: 10px;
+    float: right;
+    margin-right: 15px;
+    padding: 6px 12px;
+    color:#ffff;
+    background-color:#337ab7;
+    line-height: 1.42857143;
+    border: 1px solid transparent;
+    line-height: 1.42857143;
+    border-radius: 4px;
+
+}

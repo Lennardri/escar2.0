@@ -1,0 +1,12 @@
+<html>
+<div class="Header">
+  Escar
+</div>
+<div class="Login">
+  <input type="text" #grund class="Input" placeholder="Grund ihres Logins"> <br>
+  <input type="text" #firma class="Input" placeholder="Firmenname"> <br>
+  <input type="text" #name class="Input" placeholder="Name, Vorname"> <br>
+
+<button (click)="onContine()" (click)="onSubmit(grund.value, firma.value, name.value)" class="btn btn-success">Continue</button>
+</div>
+</html>
